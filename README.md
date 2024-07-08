@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shivani Vanjare</h1>
+ 
+
+ <h1 align="center">Hi 👋, I'm Shivani Vanjare</h1>
 <h3 align="center">A passionate DevOps Engineer From India.</h3>
+<img align="right" alt ="codeing" width="400px" src="https://tse2.mm.bing.net/th?id=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanivanjare&label=Profile%20views&color=0e75b6&style=flat" alt="shivanivanjare" /> </p>
 
